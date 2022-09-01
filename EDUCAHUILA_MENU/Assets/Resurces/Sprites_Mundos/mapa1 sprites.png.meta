@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: c0dae1b43fc728e40ab82e3d9a9fdc62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1375980010199495007
+    second: mapa1 sprites_21
+  - first:
+      213: 824158176886730157
+    second: mapa1 sprites_22
+  - first:
+      213: -1720310072774580414
+    second: mapa1 sprites_23
+  - first:
+      213: -5241045896680424175
+    second: mapa1 sprites_24
+  - first:
+      213: 8106703674093020716
+    second: mapa1 sprites_25
+  - first:
+      213: 8194659978465586000
+    second: mapa1 sprites_26
+  - first:
+      213: 4380800344166446562
+    second: mapa1 sprites_27
+  - first:
+      213: -8187329288276179716
+    second: mapa1 sprites_28
+  - first:
+      213: -5617906086894127499
+    second: mapa1 sprites_29
+  - first:
+      213: 8060573660832334297
+    second: mapa1 sprites_30
+  - first:
+      213: -239063311608181196
+    second: mapa1 sprites_31
+  - first:
+      213: 5583537730047385800
+    second: mapa1 sprites_32
+  - first:
+      213: -981741418746751869
+    second: mapa1 sprites_33
+  - first:
+      213: -8903321348607064621
+    second: mapa1 sprites_34
+  - first:
+      213: -6496588106258842631
+    second: mapa1 sprites_0
+  - first:
+      213: -3003284418889003926
+    second: mapa1 sprites_1
+  - first:
+      213: -8667959435273352903
+    second: mapa1 sprites_2
+  - first:
+      213: -5990928470889363113
+    second: mapa1 sprites_3
+  - first:
+      213: -2600728575228802101
+    second: mapa1 sprites_4
+  - first:
+      213: -4441723683321268574
+    second: mapa1 sprites_5
+  - first:
+      213: 6554336072230848402
+    second: mapa1 sprites_6
+  - first:
+      213: -463680619254161220
+    second: mapa1 sprites_7
+  - first:
+      213: 5116224750824969067
+    second: mapa1 sprites_8
+  - first:
+      213: 3307194342302850084
+    second: mapa1 sprites_9
+  - first:
+      213: 4752994484100335977
+    second: mapa1 sprites_10
+  - first:
+      213: 9168147069774052973
+    second: mapa1 sprites_11
+  - first:
+      213: 3596934975771891881
+    second: mapa1 sprites_12
+  - first:
+      213: -8529009522325592194
+    second: mapa1 sprites_13
+  - first:
+      213: -3197999663873986107
+    second: mapa1 sprites_14
+  - first:
+      213: 1341333884608682017
+    second: mapa1 sprites_15
+  - first:
+      213: 8176924212579691837
+    second: mapa1 sprites_16
+  - first:
+      213: -5758273687496373442
+    second: mapa1 sprites_17
+  - first:
+      213: 2548110897243922752
+    second: mapa1 sprites_18
+  - first:
+      213: 969372769147124567
+    second: mapa1 sprites_19
+  - first:
+      213: 4086120372874252929
+    second: mapa1 sprites_20
+  - first:
+      213: -1920864645044212288
+    second: mapa1 sprites_35
+  - first:
+      213: -6139618908070879913
+    second: mapa1 sprites_36
+  - first:
+      213: 3810002910098493791
+    second: mapa1 sprites_37
+  - first:
+      213: 3745215186089394346
+    second: mapa1 sprites_38
+  - first:
+      213: 7948143908010651900
+    second: mapa1 sprites_39
+  - first:
+      213: -7071953751576578732
+    second: mapa1 sprites_40
+  - first:
+      213: -7089034485807099399
+    second: mapa1 sprites_41
+  - first:
+      213: -4523064445989792889
+    second: mapa1 sprites_42
+  - first:
+      213: -5542739769682672239
+    second: mapa1 sprites_43
+  - first:
+      213: 2092884237977044122
+    second: mapa1 sprites_44
+  - first:
+      213: -7636370493378115350
+    second: mapa1 sprites_45
+  - first:
+      213: 8431486014923655926
+    second: mapa1 sprites_46
+  - first:
+      213: 9156478669581585616
+    second: mapa1 sprites_47
+  - first:
+      213: -7578955750186016581
+    second: mapa1 sprites_48
+  - first:
+      213: 5044345803357543855
+    second: mapa1 sprites_49
+  - first:
+      213: 4188997162406999510
+    second: mapa1 sprites_50
+  - first:
+      213: 5043713185583656762
+    second: mapa1 sprites_51
+  - first:
+      213: 7456488811417573528
+    second: mapa1 sprites_52
+  - first:
+      213: -5392106311068403460
+    second: mapa1 sprites_53
+  - first:
+      213: 2258477962153124362
+    second: mapa1 sprites_54
+  - first:
+      213: -2735620171735419721
+    second: mapa1 sprites_55
+  - first:
+      213: 1834474068953799698
+    second: mapa1 sprites_56
+  - first:
+      213: 5436761983652268494
+    second: mapa1 sprites_57
+  - first:
+      213: 14069878140423263
+    second: mapa1 sprites_58
+  - first:
+      213: 963911015284197876
+    second: mapa1 sprites_59
+  - first:
+      213: 3950263633580114513
+    second: mapa1 sprites_60
+  - first:
+      213: 7595368024405464926
+    second: mapa1 sprites_61
+  - first:
+      213: 5295116450228519500
+    second: mapa1 sprites_62
+  - first:
+      213: -3064247564627645938
+    second: mapa1 sprites_63
+  - first:
+      213: 8662344815198631887
+    second: mapa1 sprites_64
+  - first:
+      213: 540894955970299929
+    second: mapa1 sprites_65
+  - first:
+      213: 859633913071767353
+    second: mapa1 sprites_66
+  - first:
+      213: 3629053317311918853
+    second: mapa1 sprites_67
+  - first:
+      213: 7048835376177986330
+    second: mapa1 sprites_68
+  - first:
+      213: -4949282364850667020
+    second: mapa1 sprites_69
+  - first:
+      213: 1922409340624049543
+    second: mapa1 sprites_70
+  - first:
+      213: 1127522450004024128
+    second: mapa1 sprites_71
+  - first:
+      213: -6450517431262274656
+    second: mapa1 sprites_72
+  - first:
+      213: 2059911333601813550
+    second: mapa1 sprites_73
+  - first:
+      213: -114165018424637138
+    second: mapa1 sprites_74
+  - first:
+      213: 8688934614463892998
+    second: mapa1 sprites_75
+  - first:
+      213: -8142030601878373202
+    second: mapa1 sprites_76
+  - first:
+      213: -3599468605484096032
+    second: mapa1 sprites_77
+  - first:
+      213: -1357789006805733158
+    second: mapa1 sprites_78
+  - first:
+      213: -7168578424292494217
+    second: mapa1 sprites_79
+  - first:
+      213: 2051828856147023491
+    second: mapa1 sprites_80
+  - first:
+      213: 8182695790720622541
+    second: mapa1 sprites_81
+  - first:
+      213: -8716979372150521174
+    second: mapa1 sprites_82
+  - first:
+      213: 5116188305141813741
+    second: mapa1 sprites_83
+  - first:
+      213: -4215168748936229166
+    second: mapa1 sprites_84
+  - first:
+      213: -1319961745170509452
+    second: mapa1 sprites_85
+  - first:
+      213: -3372636840687607769
+    second: mapa1 sprites_86
+  - first:
+      213: -6854209108221859277
+    second: mapa1 sprites_87
+  - first:
+      213: -2712944386723069056
+    second: mapa1 sprites_88
+  - first:
+      213: -5822110296471298449
+    second: mapa1 sprites_89
+  - first:
+      213: -5903919099479036805
+    second: mapa1 sprites_90
+  - first:
+      213: -2689464148698520346
+    second: mapa1 sprites_91
+  - first:
+      213: 3543401235364600142
+    second: mapa1 sprites_92
+  - first:
+      213: -8596777687101451378
+    second: mapa1 sprites_93
+  - first:
+      213: 971589928054995167
+    second: mapa1 sprites_94
+  - first:
+      213: 6822326137066804352
+    second: mapa1 sprites_95
+  - first:
+      213: 4178573851954462738
+    second: mapa1 sprites_96
+  - first:
+      213: 7225508249108950479
+    second: mapa1 sprites_97
+  - first:
+      213: 1382914993195623340
+    second: mapa1 sprites_98
+  - first:
+      213: -2590774124037135784
+    second: mapa1 sprites_99
+  - first:
+      213: -531222706438152040
+    second: mapa1 sprites_100
+  - first:
+      213: -7856337873563435979
+    second: mapa1 sprites_101
+  - first:
+      213: -5763914656379564861
+    second: mapa1 sprites_102
+  - first:
+      213: -2717203770518597994
+    second: mapa1 sprites_103
+  - first:
+      213: -8204576070624713843
+    second: mapa1 sprites_104
+  - first:
+      213: -1416090192051041300
+    second: mapa1 sprites_105
+  - first:
+      213: -6515160624484373162
+    second: mapa1 sprites_106
+  - first:
+      213: 3123222739316911698
+    second: mapa1 sprites_107
+  - first:
+      213: -7732688753530276530
+    second: mapa1 sprites_108
+  - first:
+      213: 4366225577098769790
+    second: mapa1 sprites_109
+  - first:
+      213: -2287242511632212959
+    second: mapa1 sprites_110
+  - first:
+      213: 157759822500603488
+    second: mapa1 sprites_111
+  - first:
+      213: -761577037499766505
+    second: mapa1 sprites_112
+  - first:
+      213: 47248461304146415
+    second: mapa1 sprites_113
+  - first:
+      213: 8480680632663502550
+    second: mapa1 sprites_114
+  - first:
+      213: 3486602338309076129
+    second: mapa1 sprites_115
+  - first:
+      213: -2905170733299189779
+    second: mapa1 sprites_116
+  - first:
+      213: 4767589939843121197
+    second: mapa1 sprites_117
+  - first:
+      213: -7652364421544575509
+    second: mapa1 sprites_118
+  - first:
+      213: -3050951287257697694
+    second: mapa1 sprites_119
+  - first:
+      213: -1515937931065490895
+    second: mapa1 sprites_120
+  - first:
+      213: -2698534574050712288
+    second: mapa1 sprites_121
+  - first:
+      213: -4970265192679140647
+    second: mapa1 sprites_122
+  - first:
+      213: -7485748317102641588
+    second: mapa1 sprites_123
+  - first:
+      213: -8134403386388445171
+    second: mapa1 sprites_124
+  - first:
+      213: 6434840012518699605
+    second: mapa1 sprites_125
+  - first:
+      213: -6698886505125679787
+    second: mapa1 sprites_126
+  - first:
+      213: 4550359655613746797
+    second: mapa1 sprites_127
+  - first:
+      213: 174935108326906335
+    second: mapa1 sprites_128
+  - first:
+      213: -264344858373956996
+    second: mapa1 sprites_129
+  - first:
+      213: 6915100340249768417
+    second: mapa1 sprites_130
+  - first:
+      213: -2813137142815367389
+    second: mapa1 sprites_131
+  - first:
+      213: 440956069831173309
+    second: mapa1 sprites_132
+  - first:
+      213: 5382300834331844032
+    second: mapa1 sprites_133
+  - first:
+      213: -7685184872484833376
+    second: mapa1 sprites_134
+  - first:
+      213: -9025715395724188083
+    second: mapa1 sprites_135
+  - first:
+      213: -8577413584265731131
+    second: mapa1 sprites_136
+  - first:
+      213: -7754368054480453930
+    second: mapa1 sprites_137
+  - first:
+      213: 4154078055525276873
+    second: mapa1 sprites_138
+  - first:
+      213: 6462247552577480572
+    second: mapa1 sprites_139
+  - first:
+      213: -1646991263870842025
+    second: mapa1 sprites_140
+  - first:
+      213: -7078743090504460442
+    second: mapa1 sprites_141
+  - first:
+      213: -2783846604816268346
+    second: mapa1 sprites_142
+  - first:
+      213: -4203671112507717506
+    second: mapa1 sprites_143
+  - first:
+      213: 9138883964822590032
+    second: mapa1 sprites_144
+  - first:
+      213: -1789601518406887608
+    second: mapa1 sprites_145
+  - first:
+      213: -809748812697132044
+    second: mapa1 sprites_146
+  - first:
+      213: -9097689252805196990
+    second: mapa1 sprites_147
+  - first:
+      213: -5097029692101378244
+    second: mapa1 sprites_148
+  - first:
+      213: 5404974598339487164
+    second: mapa1 sprites_149
+  - first:
+      213: 3545875110606137720
+    second: mapa1 sprites_150
+  - first:
+      213: -2320760823439217171
+    second: mapa1 sprites_151
+  - first:
+      213: -5148799664586560277
+    second: mapa1 sprites_152
+  - first:
+      213: -7421254264688247427
+    second: mapa1 sprites_153
+  - first:
+      213: 6210125964127265698
+    second: mapa1 sprites_154
+  - first:
+      213: -5150973364300943022
+    second: mapa1 sprites_155
+  - first:
+      213: -4930528046993881749
+    second: mapa1 sprites_156
+  - first:
+      213: 3567426977931232101
+    second: mapa1 sprites_157
+  - first:
+      213: 1660004127998293282
+    second: mapa1 sprites_158
+  - first:
+      213: -8143301718453357098
+    second: mapa1 sprites_159
+  - first:
+      213: 3446350408731718337
+    second: mapa1 sprites_160
+  - first:
+      213: 5010539014824799122
+    second: mapa1 sprites_161
+  - first:
+      213: -6663097456546586682
+    second: mapa1 sprites_162
+  - first:
+      213: 8981645650870720662
+    second: mapa1 sprites_163
+  - first:
+      213: 5199789945060905619
+    second: mapa1 sprites_164
+  - first:
+      213: -6059898124608474378
+    second: mapa1 sprites_165
+  - first:
+      213: 7655952743001123039
+    second: mapa1 sprites_166
+  - first:
+      213: -8310805293647038145
+    second: mapa1 sprites_167
+  - first:
+      213: 2694466434410517810
+    second: mapa1 sprites_168
+  - first:
+      213: -2922923661083041218
+    second: mapa1 sprites_169
+  - first:
+      213: 1786360530872837679
+    second: mapa1 sprites_170
+  - first:
+      213: 4377437145218398587
+    second: mapa1 sprites_171
+  - first:
+      213: 3051212666262395198
+    second: mapa1 sprites_172
+  - first:
+      213: -3878710240624152084
+    second: mapa1 sprites_173
+  - first:
+      213: -5359294886349831577
+    second: mapa1 sprites_174
+  - first:
+      213: 1219438927017837643
+    second: mapa1 sprites_175
+  - first:
+      213: -5296290769310148453
+    second: mapa1 sprites_176
+  - first:
+      213: 6557193501274521003
+    second: mapa1 sprites_177
+  - first:
+      213: -1203870900682888946
+    second: mapa1 sprites_178
+  - first:
+      213: -5267318573495272601
+    second: mapa1 sprites_179
+  - first:
+      213: -7210319381336550580
+    second: mapa1 sprites_180
+  - first:
+      213: 6260251110356706173
+    second: mapa1 sprites_181
+  - first:
+      213: 3460564754569828587
+    second: mapa1 sprites_182
+  - first:
+      213: -8743418440046282176
+    second: mapa1 sprites_183
+  - first:
+      213: -5947959329150276190
+    second: mapa1 sprites_184
+  - first:
+      213: 2380572153771746594
+    second: mapa1 sprites_185
+  - first:
+      213: 269496045211372162
+    second: mapa1 sprites_186
+  - first:
+      213: -191725578597849538
+    second: mapa1 sprites_187
+  - first:
+      213: 2042109943303084500
+    second: mapa1 sprites_188
+  - first:
+      213: -4349551092067618151
+    second: mapa1 sprites_189
+  - first:
+      213: 3891188916348647304
+    second: mapa1 sprites_190
+  - first:
+      213: -963162178777103876
+    second: mapa1 sprites_191
+  - first:
+      213: -2441539413513442125
+    second: mapa1 sprites_192
+  - first:
+      213: -7727620124315137295
+    second: mapa1 sprites_193
+  - first:
+      213: 525197698544011005
+    second: mapa1 sprites_194
+  - first:
+      213: -9095452368636819988
+    second: mapa1 sprites_195
+  - first:
+      213: 8915321521634827751
+    second: mapa1 sprites_196
+  - first:
+      213: 1939009166833598619
+    second: mapa1 sprites_197
+  - first:
+      213: -1251846844826369194
+    second: mapa1 sprites_198
+  - first:
+      213: 8254585919542570209
+    second: mapa1 sprites_199
+  - first:
+      213: 7319342085822982738
+    second: mapa1 sprites_200
+  - first:
+      213: -3716669790658287456
+    second: mapa1 sprites_201
+  - first:
+      213: -5458945400454909395
+    second: mapa1 sprites_202
+  - first:
+      213: 783808083852950466
+    second: mapa1 sprites_203
+  - first:
+      213: -5156550659800325265
+    second: mapa1 sprites_204
+  - first:
+      213: -2068164033599601613
+    second: mapa1 sprites_205
+  - first:
+      213: 3270637760858957523
+    second: mapa1 sprites_206
+  - first:
+      213: 7998916043101497487
+    second: mapa1 sprites_207
+  - first:
+      213: -3491998069147655303
+    second: mapa1 sprites_208
+  - first:
+      213: -7492086684357259105
+    second: mapa1 sprites_209
+  - first:
+      213: 8499308290699040965
+    second: mapa1 sprites_210
+  - first:
+      213: -3498258299882890880
+    second: mapa1 sprites_211
+  - first:
+      213: -2181620019903258671
+    second: mapa1 sprites_212
+  - first:
+      213: 9152172574800895797
+    second: mapa1 sprites_213
+  - first:
+      213: -7718080557044809534
+    second: mapa1 sprites_214
+  - first:
+      213: 1187098226129088761
+    second: mapa1 sprites_215
+  - first:
+      213: -129614881648664471
+    second: mapa1 sprites_216
+  - first:
+      213: 6741566401957707165
+    second: mapa1 sprites_217
+  - first:
+      213: 5378671796773937059
+    second: mapa1 sprites_218
+  - first:
+      213: 6597309557374422234
+    second: mapa1 sprites_219
+  - first:
+      213: 2851348920242727421
+    second: mapa1 sprites_220
+  - first:
+      213: 1391875121016981226
+    second: mapa1 sprites_221
+  - first:
+      213: 7429613938255328600
+    second: mapa1 sprites_222
+  - first:
+      213: -1834468697619905066
+    second: mapa1 sprites_223
+  - first:
+      213: -7456280222817324952
+    second: mapa1 sprites_224
+  - first:
+      213: -7052241104535067289
+    second: mapa1 sprites_225
+  - first:
+      213: -2817320076088353794
+    second: mapa1 sprites_226
+  - first:
+      213: -4504374734975832028
+    second: mapa1 sprites_227
+  - first:
+      213: 2485728763027681778
+    second: mapa1 sprites_228
+  - first:
+      213: -8031899338918340379
+    second: mapa1 sprites_229
+  - first:
+      213: -6007506077538193877
+    second: mapa1 sprites_230
+  - first:
+      213: -5905687877724750730
+    second: mapa1 sprites_231
+  - first:
+      213: -3931945822985346864
+    second: mapa1 sprites_232
+  - first:
+      213: 7098693537830296046
+    second: mapa1 sprites_233
+  - first:
+      213: 6988577472048902749
+    second: mapa1 sprites_234
+  - first:
+      213: 6411983519055997700
+    second: mapa1 sprites_235
+  - first:
+      213: -6688153098627216209
+    second: mapa1 sprites_236
+  - first:
+      213: 4851177140880017243
+    second: mapa1 sprites_237
+  - first:
+      213: -5610434245191965037
+    second: mapa1 sprites_238
+  - first:
+      213: 5413142213207704868
+    second: mapa1 sprites_239
+  - first:
+      213: 1599536662668832083
+    second: mapa1 sprites_240
+  - first:
+      213: 2178488116267468447
+    second: mapa1 sprites_241
+  - first:
+      213: -173608413195395944
+    second: mapa1 sprites_242
+  - first:
+      213: -6857270314281661245
+    second: mapa1 sprites_243
+  - first:
+      213: 5428890375513431795
+    second: mapa1 sprites_244
+  - first:
+      213: 223045645380581086
+    second: mapa1 sprites_245
+  - first:
+      213: 9215140804662933615
+    second: mapa1 sprites_246
+  - first:
+      213: -2282464037265923162
+    second: mapa1 sprites_247
+  - first:
+      213: 6192373794367417717
+    second: mapa1 sprites_248
+  - first:
+      213: 6902019046579120478
+    second: mapa1 sprites_249
+  - first:
+      213: -5367276277507814777
+    second: mapa1 sprites_250
+  - first:
+      213: 8762817941334255545
+    second: mapa1 sprites_251
+  - first:
+      213: 3845861736052986563
+    second: mapa1 sprites_252
+  - first:
+      213: 3007092625450497781
+    second: mapa1 sprites_253
+  - first:
+      213: -3101923747769018568
+    second: mapa1 sprites_254
+  - first:
+      213: 5611133369222928714
+    second: mapa1 sprites_255
+  - first:
+      213: 686295851893314044
+    second: mapa1 sprites_256
+  - first:
+      213: -4771604384512426070
+    second: mapa1 sprites_257
+  - first:
+      213: -4580861470063083007
+    second: mapa1 sprites_258
+  - first:
+      213: 6555077867268539391
+    second: mapa1 sprites_259
+  - first:
+      213: 2197677129670330800
+    second: mapa1 sprites_260
+  - first:
+      213: -2955974853316932645
+    second: mapa1 sprites_261
+  - first:
+      213: -329527024430769052
+    second: mapa1 sprites_262
+  - first:
+      213: -5385901593450825433
+    second: mapa1 sprites_263
+  - first:
+      213: 1091795417397368121
+    second: mapa1 sprites_264
+  - first:
+      213: 372833412392493694
+    second: mapa1 sprites_265
+  - first:
+      213: -1393426446192073524
+    second: mapa1 sprites_266
+  - first:
+      213: -9196557383194080359
+    second: mapa1 sprites_267
+  - first:
+      213: 6733466085027079747
+    second: mapa1 sprites_268
+  - first:
+      213: 7386206971315839384
+    second: mapa1 sprites_269
+  - first:
+      213: 5851059189329780733
+    second: mapa1 sprites_270
+  - first:
+      213: 1905243931415375467
+    second: mapa1 sprites_271
+  - first:
+      213: 1161755751425947095
+    second: mapa1 sprites_272
+  - first:
+      213: 3382769898579319239
+    second: mapa1 sprites_273
+  - first:
+      213: 7870190031204572801
+    second: mapa1 sprites_274
+  - first:
+      213: -7962219808201582913
+    second: mapa1 sprites_275
+  - first:
+      213: -1695302544377380016
+    second: mapa1 sprites_276
+  - first:
+      213: 6549699231055717368
+    second: mapa1 sprites_277
+  - first:
+      213: 3364163857509020320
+    second: mapa1 sprites_278
+  - first:
+      213: 5017418828127344459
+    second: mapa1 sprites_279
+  - first:
+      213: -5853899743996591094
+    second: mapa1 sprites_280
+  - first:
+      213: 5927279550354760387
+    second: mapa1 sprites_281
+  - first:
+      213: 2264515664955003291
+    second: mapa1 sprites_282
+  - first:
+      213: 8716806357368216707
+    second: mapa1 sprites_283
+  - first:
+      213: -4886737659340656743
+    second: mapa1 sprites_284
+  - first:
+      213: 9019742003937228339
+    second: mapa1 sprites_285
+  - first:
+      213: 5455761617379604716
+    second: mapa1 sprites_286
+  - first:
+      213: -6202437816140288753
+    second: mapa1 sprites_287
+  - first:
+      213: -486201146251010153
+    second: mapa1 sprites_288
+  - first:
+      213: 7495964285532987847
+    second: mapa1 sprites_289
+  - first:
+      213: 7849361519778834109
+    second: mapa1 sprites_290
+  - first:
+      213: 4857682581181182279
+    second: mapa1 sprites_291
+  - first:
+      213: -6382240522285555612
+    second: mapa1 sprites_292
+  - first:
+      213: -4239347200117264000
+    second: mapa1 sprites_293
+  - first:
+      213: -2026220764956405062
+    second: mapa1 sprites_294
+  - first:
+      213: -7072714161410142438
+    second: mapa1 sprites_295
+  - first:
+      213: 606959473237731461
+    second: mapa1 sprites_296
+  - first:
+      213: -8670612634755942989
+    second: mapa1 sprites_297
+  - first:
+      213: -3704947575341728747
+    second: mapa1 sprites_298
+  - first:
+      213: 8068343776060693260
+    second: mapa1 sprites_299
+  - first:
+      213: -5953191430288138410
+    second: mapa1 sprites_300
+  - first:
+      213: 2918613640804522766
+    second: mapa1 sprites_301
+  - first:
+      213: -1670031546014638830
+    second: mapa1 sprites_302
+  - first:
+      213: -5150990479264704144
+    second: mapa1 sprites_303
+  - first:
+      213: -1049795472584295422
+    second: mapa1 sprites_304
+  - first:
+      213: -4927439119696926089
+    second: mapa1 sprites_305
+  - first:
+      213: -6549962889974636813
+    second: mapa1 sprites_306
+  - first:
+      213: -4205605074807449139
+    second: mapa1 sprites_307
+  - first:
+      213: -2667301539395218662
+    second: mapa1 sprites_308
+  - first:
+      213: 2518196993059202256
+    second: mapa1 sprites_309
+  - first:
+      213: 3821283658177553208
+    second: mapa1 sprites_310
+  - first:
+      213: -4604110464902284091
+    second: mapa1 sprites_311
+  - first:
+      213: -5514456958572554700
+    second: mapa1 sprites_312
+  - first:
+      213: -3384595247629241619
+    second: mapa1 sprites_313
+  - first:
+      213: -4369413174248143129
+    second: mapa1 sprites_314
+  - first:
+      213: -4868616589213575224
+    second: mapa1 sprites_315
+  - first:
+      213: -5199530800188467844
+    second: mapa1 sprites_316
+  - first:
+      213: -670669493052767301
+    second: mapa1 sprites_317
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa1 sprites_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 524
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbf96aa98b77d5a0800000000000000
+      internalID: -6496588106258842631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 470
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc7acabb03256d0800000000000000
+      internalID: -3003284418889003926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 572
+        width: 86
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939490581d835b780800000000000000
+      internalID: -8667959435273352903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 449
+        width: 199
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7598dd90c42fbdca0800000000000000
+      internalID: -5990928470889363113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 466
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb874cd32b58ebd0800000000000000
+      internalID: -2600728575228802101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 470
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63231e7d3db52c0800000000000000
+      internalID: -4441723683321268574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 295
+        width: 328
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29749db6eeda5fa50800000000000000
+      internalID: 6554336072230848402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 295
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb06f18feeca099f0800000000000000
+      internalID: -463680619254161220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 344
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63dbffcd4b700740800000000000000
+      internalID: 5116224750824969067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_9
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 342
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c94286bb385ed20800000000000000
+      internalID: 3307194342302850084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 274
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96901340d4706f140800000000000000
+      internalID: 4752994484100335977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 253
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ebb6e5f2dcb3f70800000000000000
+      internalID: 9168147069774052973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 211
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8df079d41eae130800000000000000
+      internalID: 3596934975771891881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa1 sprites_13
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 206
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77ebdf270fd2a980800000000000000
+      internalID: -8529009522325592194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

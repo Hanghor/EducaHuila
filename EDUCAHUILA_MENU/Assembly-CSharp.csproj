@@ -61,6 +61,13 @@
     <Compile Include="Assets\Resurces\Scrips\Gamemanager.cs" />
     <Compile Include="Assets\Resurces\Scrips\Educa_Move1.cs" />
     <Compile Include="Assets\Resurces\Scrips\profesion.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Johan\scripts\JugadorMov.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Base\Joystick.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
+    <Compile Include="Assets\Johan\scripts\Barras.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

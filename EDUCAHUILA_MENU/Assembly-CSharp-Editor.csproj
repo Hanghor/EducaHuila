@@ -53,14 +53,10 @@
     <UnityVersion>2020.3.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Cradle\TwineTextPlayer\Editor\TwineTextPlayerElementEditor.cs" />
-    <Compile Include="Assets\Cradle\Editor\ThirdParty\PhantomJS\Install.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\Cradle\Editor\ThirdParty\Nustache\Nustache.Core.dll" />
-    <None Include="Assets\Cradle\Editor\ThirdParty\PhantomJS\third-party.txt" />
-    <None Include="Assets\Cradle\Editor\Templates\Story.template" />
-    <None Include="Assets\Cradle\Editor\Cradle.Editor.dll" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Editor\JoystickEditor.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -320,15 +316,6 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Nustache.Core">
-      <HintPath>Assets\Cradle\Editor\ThirdParty\Nustache\Nustache.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Cradle.Editor">
-      <HintPath>Assets\Cradle\Editor\Cradle.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Cradle">
-      <HintPath>Assets\Cradle\Cradle.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
