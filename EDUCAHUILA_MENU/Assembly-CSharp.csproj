@@ -53,21 +53,22 @@
     <UnityVersion>2020.3.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
     <Compile Include="Assets\Resurces\Scrips\Selec_Nickname.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Base\Joystick.cs" />
+    <Compile Include="Assets\Johan\scripts\Barras.cs" />
     <Compile Include="Assets\Resurces\Scrips\SaveInfoFInal.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
     <Compile Include="Assets\Resurces\Scrips\Selec_name.cs" />
     <Compile Include="Assets\Resurces\Scrips\Grado.cs" />
     <Compile Include="Assets\Resurces\Scrips\Educa_Move.cs" />
     <Compile Include="Assets\Resurces\Scrips\Gamemanager.cs" />
+    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Resurces\Scrips\Educa_Move1.cs" />
     <Compile Include="Assets\Resurces\Scrips\profesion.cs" />
-    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
-    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
-    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
     <Compile Include="Assets\Johan\scripts\JugadorMov.cs" />
-    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Base\Joystick.cs" />
-    <Compile Include="Assets\Johan\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
-    <Compile Include="Assets\Johan\scripts\Barras.cs" />
+    <Compile Include="Assets\Johan\scripts\UI.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

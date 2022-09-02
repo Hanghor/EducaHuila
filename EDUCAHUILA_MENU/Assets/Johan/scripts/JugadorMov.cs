@@ -86,13 +86,22 @@ public class JugadorMov : MonoBehaviour
         Mov = new Vector2(x, y);
         rb.MovePosition(rb.position + Mov * velocidadMov * Time.fixedDeltaTime);
     }
+    public void Error()
+    {
+        contarEnergia.barra.value -= 1;
+        Cerrar();
+    }
+    public void Pasado()
+    {
+        contarProgreso.barra.value += 1;
+        Cerrar();
+
+    }
     public void Cerrar()
     {
         menu[indice].SetActive(false);
         objetosMision[indice].SetActive(false);
         Time.timeScale = 1;
-        contarEnergia.barra.value -= 1;
-        contarProgreso.barra.value += 1;
 
         if (contarProgreso.barra.value == contarProgreso.barra.maxValue)
         {
