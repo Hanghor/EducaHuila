@@ -6,12 +6,13 @@ TagManager:
   tags:
   - profesion
   - prueba7
-  - quimica
-  - prueba6
-  - prueba5
-  - prueba3
   - planeta
   - prueba4
+  - prueba3
+  - agua
+  - prueba5
+  - quimica
+  - prueba6
   layers:
   - Default
   - TransparentFX
@@ -22,9 +23,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Entorno
+  - Capa2
+  - Capa3
   - 
   - 
   - 
@@ -49,12 +50,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Entorno
-    uniqueID: 2147864931
+  - name: 'Entorno '
+    uniqueID: 3419794375
     locked: 0
-  - name: Props
-    uniqueID: 678934271
+  - name: Capa2
+    uniqueID: 2050401713
     locked: 0
-  - name: UI
-    uniqueID: 879813059
+  - name: Capa3
+    uniqueID: 2115557315
     locked: 0

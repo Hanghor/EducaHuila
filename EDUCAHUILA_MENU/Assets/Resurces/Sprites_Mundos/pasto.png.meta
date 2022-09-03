@@ -1,0 +1,4851 @@
+fileFormatVersion: 2
+guid: f6e84d47591086c4cb3d3f6449a6d93f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7717928920513520254
+    second: pasto_0
+  - first:
+      213: -5207643841927612351
+    second: pasto_1
+  - first:
+      213: 3316095973504831190
+    second: pasto_2
+  - first:
+      213: -8698466900911433435
+    second: pasto_3
+  - first:
+      213: 7948161474142179449
+    second: pasto_4
+  - first:
+      213: 3649653275622336600
+    second: pasto_5
+  - first:
+      213: 855888184382561471
+    second: pasto_6
+  - first:
+      213: -6786336448208758956
+    second: pasto_7
+  - first:
+      213: 1758565153617309348
+    second: pasto_8
+  - first:
+      213: -9183858957979049707
+    second: pasto_9
+  - first:
+      213: 8431081891544688075
+    second: pasto_10
+  - first:
+      213: -3487881497852968449
+    second: pasto_11
+  - first:
+      213: -4321187798211193334
+    second: pasto_12
+  - first:
+      213: 1589509337662625977
+    second: pasto_13
+  - first:
+      213: -4912674216864257637
+    second: pasto_14
+  - first:
+      213: -1015257938270773807
+    second: pasto_15
+  - first:
+      213: -5015881192850202754
+    second: pasto_16
+  - first:
+      213: -7956116631350616960
+    second: pasto_17
+  - first:
+      213: -1582986741423966455
+    second: pasto_18
+  - first:
+      213: 8928869350770506731
+    second: pasto_19
+  - first:
+      213: -7519920605831101899
+    second: pasto_20
+  - first:
+      213: -5132559011005721511
+    second: pasto_21
+  - first:
+      213: 2775934130420052333
+    second: pasto_22
+  - first:
+      213: 8026812035588267239
+    second: pasto_23
+  - first:
+      213: 8632350672130980973
+    second: pasto_24
+  - first:
+      213: -7519581374644351356
+    second: pasto_25
+  - first:
+      213: 328615094460069380
+    second: pasto_26
+  - first:
+      213: 4294683407311402187
+    second: pasto_27
+  - first:
+      213: 5346060707379643457
+    second: pasto_28
+  - first:
+      213: -4369738912075165218
+    second: pasto_29
+  - first:
+      213: 1323439891400492742
+    second: pasto_30
+  - first:
+      213: 2411032838466099609
+    second: pasto_31
+  - first:
+      213: 8541319515294954180
+    second: pasto_32
+  - first:
+      213: -5246114956280744572
+    second: pasto_33
+  - first:
+      213: -7808210599973752697
+    second: pasto_34
+  - first:
+      213: -3617830895169778018
+    second: pasto_47
+  - first:
+      213: 5494419691818286048
+    second: pasto_48
+  - first:
+      213: -5656690181738686706
+    second: pasto_49
+  - first:
+      213: 2347156687504746674
+    second: pasto_50
+  - first:
+      213: -6706598871011211476
+    second: pasto_51
+  - first:
+      213: -35477593399300178
+    second: pasto_52
+  - first:
+      213: -1633070349374103225
+    second: pasto_53
+  - first:
+      213: -2653322074409681690
+    second: pasto_54
+  - first:
+      213: 3571167569486342153
+    second: pasto_55
+  - first:
+      213: -4445405812747879024
+    second: pasto_56
+  - first:
+      213: 7705859569018864727
+    second: pasto_57
+  - first:
+      213: -35028992067043619
+    second: pasto_58
+  - first:
+      213: 5110640736648520089
+    second: pasto_71
+  - first:
+      213: 1386588093491041569
+    second: pasto_72
+  - first:
+      213: 6497409003500858105
+    second: pasto_73
+  - first:
+      213: 6150051400419026724
+    second: pasto_74
+  - first:
+      213: 9042905771366078553
+    second: pasto_75
+  - first:
+      213: 4234914225664012212
+    second: pasto_76
+  - first:
+      213: -7743202867205896233
+    second: pasto_77
+  - first:
+      213: 739536303323798965
+    second: pasto_78
+  - first:
+      213: 7883061181590753197
+    second: pasto_79
+  - first:
+      213: -2814724539541858981
+    second: pasto_80
+  - first:
+      213: 9032695102843593861
+    second: pasto_81
+  - first:
+      213: 770734535076543589
+    second: pasto_82
+  - first:
+      213: -581324563575804184
+    second: pasto_95
+  - first:
+      213: 8984054672220236611
+    second: pasto_96
+  - first:
+      213: -830492047246642194
+    second: pasto_97
+  - first:
+      213: 7889903085005264161
+    second: pasto_98
+  - first:
+      213: 4959207946532214263
+    second: pasto_99
+  - first:
+      213: 5875422977925397790
+    second: pasto_100
+  - first:
+      213: -5383707370375732605
+    second: pasto_101
+  - first:
+      213: 20816857952886216
+    second: pasto_102
+  - first:
+      213: -390253094701643874
+    second: pasto_103
+  - first:
+      213: -5276913006910880371
+    second: pasto_104
+  - first:
+      213: 5255329273114942377
+    second: pasto_105
+  - first:
+      213: 4410576021545940332
+    second: pasto_106
+  - first:
+      213: -4960024748875693881
+    second: pasto_119
+  - first:
+      213: -3689548175748798493
+    second: pasto_120
+  - first:
+      213: 3518351564222320647
+    second: pasto_121
+  - first:
+      213: 6311696316060218533
+    second: pasto_122
+  - first:
+      213: 8361052700091754951
+    second: pasto_123
+  - first:
+      213: -6086732749572064239
+    second: pasto_124
+  - first:
+      213: -979114334731242103
+    second: pasto_126
+  - first:
+      213: 2117884623370271274
+    second: pasto_139
+  - first:
+      213: -8971564803801844846
+    second: pasto_140
+  - first:
+      213: -4316617279574139078
+    second: pasto_141
+  - first:
+      213: -612506353626110765
+    second: pasto_142
+  - first:
+      213: 683639773155499204
+    second: pasto_143
+  - first:
+      213: 4043576307862715526
+    second: pasto_144
+  - first:
+      213: -2188943726021724684
+    second: pasto_146
+  - first:
+      213: -1530885322559529157
+    second: pasto_159
+  - first:
+      213: -2473875096544897086
+    second: pasto_160
+  - first:
+      213: 8985985128529113685
+    second: pasto_161
+  - first:
+      213: -742756946565331558
+    second: pasto_162
+  - first:
+      213: 9178780124056592042
+    second: pasto_163
+  - first:
+      213: -6536674024250941508
+    second: pasto_164
+  - first:
+      213: 391984463887350434
+    second: pasto_166
+  - first:
+      213: -3116567125883673757
+    second: pasto_179
+  - first:
+      213: 6014677528314878219
+    second: pasto_180
+  - first:
+      213: 4085397261025588997
+    second: pasto_181
+  - first:
+      213: -4444005373543891818
+    second: pasto_182
+  - first:
+      213: 9218577846752581731
+    second: pasto_183
+  - first:
+      213: -5267639637083721861
+    second: pasto_184
+  - first:
+      213: -1225843839730548511
+    second: pasto_186
+  - first:
+      213: 2312522613389029109
+    second: pasto_199
+  - first:
+      213: -2920792658390330519
+    second: pasto_200
+  - first:
+      213: 5536439166962620157
+    second: pasto_201
+  - first:
+      213: -5016716620893298890
+    second: pasto_202
+  - first:
+      213: -4738133884157738624
+    second: pasto_203
+  - first:
+      213: 1663064716659133437
+    second: pasto_204
+  - first:
+      213: -5981374328328525764
+    second: pasto_206
+  - first:
+      213: -5707514555377355328
+    second: pasto_219
+  - first:
+      213: -8548136541345080294
+    second: pasto_220
+  - first:
+      213: -390324750224367734
+    second: pasto_221
+  - first:
+      213: -8373074974083315090
+    second: pasto_222
+  - first:
+      213: 4248480427249388683
+    second: pasto_223
+  - first:
+      213: 2275901193527623793
+    second: pasto_224
+  - first:
+      213: -6106544447293381850
+    second: pasto_226
+  - first:
+      213: -8422311420519035024
+    second: pasto_239
+  - first:
+      213: -1049989727376500985
+    second: pasto_240
+  - first:
+      213: -125690390257464556
+    second: pasto_241
+  - first:
+      213: -7317854809777670472
+    second: pasto_242
+  - first:
+      213: -6881946379371225170
+    second: pasto_243
+  - first:
+      213: -2514187041206976089
+    second: pasto_244
+  - first:
+      213: 2855177796677595517
+    second: pasto_246
+  - first:
+      213: -8190089304586729515
+    second: pasto_259
+  - first:
+      213: -2386477243434153407
+    second: pasto_260
+  - first:
+      213: -5546365981449997000
+    second: pasto_261
+  - first:
+      213: 6655622868484921608
+    second: pasto_262
+  - first:
+      213: 2650104993436492134
+    second: pasto_263
+  - first:
+      213: 7604359249529288734
+    second: pasto_264
+  - first:
+      213: 8461652771935830289
+    second: pasto_266
+  - first:
+      213: 262230006592133985
+    second: pasto_273
+  - first:
+      213: -3571740459528364237
+    second: pasto_279
+  - first:
+      213: 7627390436946544042
+    second: pasto_280
+  - first:
+      213: -3764078568282842548
+    second: pasto_281
+  - first:
+      213: -8845180863165177585
+    second: pasto_282
+  - first:
+      213: -6241195298542677217
+    second: pasto_283
+  - first:
+      213: -2510373424067478255
+    second: pasto_284
+  - first:
+      213: -24608110375021449
+    second: pasto_286
+  - first:
+      213: 4948460294093374527
+    second: pasto_287
+  - first:
+      213: 4429087085638601913
+    second: pasto_288
+  - first:
+      213: 5234194738427454879
+    second: pasto_289
+  - first:
+      213: -3455153340895745664
+    second: pasto_290
+  - first:
+      213: -1342426674818436782
+    second: pasto_291
+  - first:
+      213: 6117113911558371802
+    second: pasto_292
+  - first:
+      213: -6320970658408727030
+    second: pasto_293
+  - first:
+      213: -9074710174082459540
+    second: pasto_294
+  - first:
+      213: -9147390247040998151
+    second: pasto_295
+  - first:
+      213: 2610273434691048036
+    second: pasto_296
+  - first:
+      213: -8118330956766374644
+    second: pasto_297
+  - first:
+      213: 57157253816360650
+    second: pasto_298
+  - first:
+      213: 3743588668112588451
+    second: pasto_299
+  - first:
+      213: 7430773447368617297
+    second: pasto_300
+  - first:
+      213: 4349975172756652757
+    second: pasto_301
+  - first:
+      213: 4681227048615883815
+    second: pasto_302
+  - first:
+      213: -1838575237536152171
+    second: pasto_303
+  - first:
+      213: -6038878486646602077
+    second: pasto_304
+  - first:
+      213: -6550974823405771017
+    second: pasto_336
+  - first:
+      213: -3854697115964967713
+    second: pasto_337
+  - first:
+      213: -7215205063980433619
+    second: pasto_338
+  - first:
+      213: -1160180637568989435
+    second: pasto_339
+  - first:
+      213: 1216047972566949602
+    second: pasto_340
+  - first:
+      213: -5269931559077185185
+    second: pasto_341
+  - first:
+      213: -153820798093850434
+    second: pasto_342
+  - first:
+      213: -2342251189228140976
+    second: pasto_343
+  - first:
+      213: -1496683768258803659
+    second: pasto_344
+  - first:
+      213: 5247402995718600176
+    second: pasto_345
+  - first:
+      213: -8931125002725451879
+    second: pasto_346
+  - first:
+      213: 1106627210342903947
+    second: pasto_347
+  - first:
+      213: -1934457727774177766
+    second: pasto_348
+  - first:
+      213: -7691338530716595117
+    second: pasto_349
+  - first:
+      213: 1022058481405342534
+    second: pasto_351
+  - first:
+      213: -8565059170662328759
+    second: pasto_364
+  - first:
+      213: 650144414358975204
+    second: pasto_366
+  - first:
+      213: -3129327987541965720
+    second: pasto_379
+  - first:
+      213: 8649467721147215134
+    second: pasto_381
+  - first:
+      213: -3266529428522455078
+    second: pasto_384
+  - first:
+      213: -5349197457647415965
+    second: pasto_385
+  - first:
+      213: -3550854346384877823
+    second: pasto_386
+  - first:
+      213: 5238932502812491158
+    second: pasto_387
+  - first:
+      213: -5904265458543418123
+    second: pasto_388
+  - first:
+      213: -1299950106071281056
+    second: pasto_389
+  - first:
+      213: 6632173669853363863
+    second: pasto_390
+  - first:
+      213: 6994192509723834756
+    second: pasto_391
+  - first:
+      213: 237543426133822989
+    second: pasto_394
+  - first:
+      213: -5875186467356741396
+    second: pasto_396
+  - first:
+      213: -6016158536037476080
+    second: pasto_399
+  - first:
+      213: 4355817706015343090
+    second: pasto_400
+  - first:
+      213: -2726570999278274069
+    second: pasto_401
+  - first:
+      213: -3995093655718366914
+    second: pasto_402
+  - first:
+      213: 3292644219974977770
+    second: pasto_403
+  - first:
+      213: 6276412677344579838
+    second: pasto_404
+  - first:
+      213: 1586678421702164976
+    second: pasto_405
+  - first:
+      213: 4996657254922807924
+    second: pasto_406
+  - first:
+      213: 2519467832456671445
+    second: pasto_409
+  - first:
+      213: 5746877912509430738
+    second: pasto_411
+  - first:
+      213: -2837666288445328071
+    second: pasto_414
+  - first:
+      213: -152373631055647741
+    second: pasto_415
+  - first:
+      213: -1554036272889224056
+    second: pasto_416
+  - first:
+      213: -7744349850781301281
+    second: pasto_417
+  - first:
+      213: -7499883929292507353
+    second: pasto_418
+  - first:
+      213: -6515727016782854415
+    second: pasto_419
+  - first:
+      213: 6094414677204322723
+    second: pasto_420
+  - first:
+      213: 3321253697920125494
+    second: pasto_421
+  - first:
+      213: -4483768373981642452
+    second: pasto_424
+  - first:
+      213: 25380425316673793
+    second: pasto_426
+  - first:
+      213: 8756531555985587303
+    second: pasto_429
+  - first:
+      213: 3773205049604170399
+    second: pasto_430
+  - first:
+      213: -4816863096239502834
+    second: pasto_431
+  - first:
+      213: 2696582612519326406
+    second: pasto_432
+  - first:
+      213: 4077618415039554655
+    second: pasto_433
+  - first:
+      213: -7050387959875811761
+    second: pasto_434
+  - first:
+      213: 3786178085206033727
+    second: pasto_435
+  - first:
+      213: -2972420259455600571
+    second: pasto_436
+  - first:
+      213: 2804509170973858947
+    second: pasto_439
+  - first:
+      213: 1614240959054827193
+    second: pasto_441
+  - first:
+      213: 7266671340327789358
+    second: pasto_444
+  - first:
+      213: 8928255339503195196
+    second: pasto_445
+  - first:
+      213: 2270418900678817729
+    second: pasto_446
+  - first:
+      213: 2647274036650247083
+    second: pasto_447
+  - first:
+      213: 8170513823899673353
+    second: pasto_448
+  - first:
+      213: 3124212642578375191
+    second: pasto_449
+  - first:
+      213: -2223831890293215233
+    second: pasto_450
+  - first:
+      213: -5738354164266766287
+    second: pasto_451
+  - first:
+      213: 3639328653488674143
+    second: pasto_454
+  - first:
+      213: 4553021205988827344
+    second: pasto_456
+  - first:
+      213: -1135879881844636395
+    second: pasto_459
+  - first:
+      213: -3312349767219411991
+    second: pasto_460
+  - first:
+      213: -3935386461560345799
+    second: pasto_461
+  - first:
+      213: -6735300334395115639
+    second: pasto_462
+  - first:
+      213: -7027548849987477335
+    second: pasto_463
+  - first:
+      213: -3651486232585994249
+    second: pasto_464
+  - first:
+      213: -5568812605772326393
+    second: pasto_465
+  - first:
+      213: 529074125147023557
+    second: pasto_466
+  - first:
+      213: -3599551484294556442
+    second: pasto_469
+  - first:
+      213: 6199581031319894256
+    second: pasto_471
+  - first:
+      213: -2363468883668429776
+    second: pasto_474
+  - first:
+      213: -2140764570686549432
+    second: pasto_475
+  - first:
+      213: -353739892891953639
+    second: pasto_476
+  - first:
+      213: 5333309498941196689
+    second: pasto_477
+  - first:
+      213: 6185096767665421303
+    second: pasto_478
+  - first:
+      213: -480697535828906984
+    second: pasto_479
+  - first:
+      213: -7710946910518924815
+    second: pasto_480
+  - first:
+      213: -2253929305774853306
+    second: pasto_481
+  - first:
+      213: -1483706693408281134
+    second: pasto_484
+  - first:
+      213: 7911816228200012076
+    second: pasto_486
+  - first:
+      213: -4320553303130129891
+    second: pasto_490
+  - first:
+      213: 6123886762097304367
+    second: pasto_491
+  - first:
+      213: -7971293702705344417
+    second: pasto_492
+  - first:
+      213: -6212280226372663245
+    second: pasto_493
+  - first:
+      213: 4145916222025264126
+    second: pasto_494
+  - first:
+      213: 6270378858853843970
+    second: pasto_495
+  - first:
+      213: -6218562570762629239
+    second: pasto_499
+  - first:
+      213: -4050378147857438013
+    second: pasto_501
+  - first:
+      213: -2608692984835386032
+    second: pasto_514
+  - first:
+      213: -1646005143542632897
+    second: pasto_516
+  - first:
+      213: -1609749124172725554
+    second: pasto_529
+  - first:
+      213: -7520949343248936292
+    second: pasto_531
+  - first:
+      213: 7204769375843131039
+    second: pasto_532
+  - first:
+      213: 7264572909655019576
+    second: pasto_533
+  - first:
+      213: 5365039202853266332
+    second: pasto_534
+  - first:
+      213: 5203623231528174401
+    second: pasto_535
+  - first:
+      213: -6409586564769777447
+    second: pasto_536
+  - first:
+      213: 4275107269192042835
+    second: pasto_537
+  - first:
+      213: 7702701765314136350
+    second: pasto_538
+  - first:
+      213: -790600001435011511
+    second: pasto_539
+  - first:
+      213: 3683972455807065626
+    second: pasto_540
+  - first:
+      213: -3100667831299951474
+    second: pasto_541
+  - first:
+      213: 3696694738769602152
+    second: pasto_542
+  - first:
+      213: 8396936718269759875
+    second: pasto_543
+  - first:
+      213: -2691107649772970223
+    second: pasto_544
+  - first:
+      213: -1475495012583431628
+    second: pasto_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pasto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd313c98864e490800000000000000
+      internalID: -7717928920513520254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148772d548bbab7b0800000000000000
+      internalID: -5207643841927612351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6decbdde7b3250e20800000000000000
+      internalID: 3316095973504831190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295ea8a076d84780800000000000000
+      internalID: -8698466900911433435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97090b3efba8d4e60800000000000000
+      internalID: 7948161474142179449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8586fc6415c26a230800000000000000
+      internalID: 3649653275622336600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc939dd4c9b0eb00800000000000000
+      internalID: 855888184382561471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4571b36b4f612d1a0800000000000000
+      internalID: -6786336448208758956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae6dbf90bda76810800000000000000
+      internalID: 1758565153617309348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ae569fe06c8080800000000000000
+      internalID: -9183858957979049707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5efb18f48310570800000000000000
+      internalID: 8431081891544688075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff101ddd14e889fc0800000000000000
+      internalID: -3487881497852968449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069ed7979e0804c0800000000000000
+      internalID: -4321187798211193334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81c8e22521f0610800000000000000
+      internalID: 1589509337662625977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e59604dca2dbb0800000000000000
+      internalID: -4912674216864257637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd99f1c84419e1f0800000000000000
+      internalID: -1015257938270773807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd99061a2046ab0800000000000000
+      internalID: -5015881192850202754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd4ccb312369190800000000000000
+      internalID: -7956116631350616960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907754912f9180ae0800000000000000
+      internalID: -1582986741423966455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7c8a0e57b9eb70800000000000000
+      internalID: 8928869350770506731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5320c4e1d00e3a790800000000000000
+      internalID: -7519920605831101899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_21
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9541640e5cc75c8b0800000000000000
+      internalID: -5132559011005721511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61f1935269168620800000000000000
+      internalID: 2775934130420052333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_23
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec911cb407f46f60800000000000000
+      internalID: 8026812035588267239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb8fc33354cc770800000000000000
+      internalID: 8632350672130980973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b50c0e3e0237b0800000000000000
+      internalID: -5246114956280744572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780ff1934d9a3a390800000000000000
+      internalID: -7808210599973752697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_47
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec8fb08f1eacdc0800000000000000
+      internalID: -3617830895169778018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1083
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb7db95999104c40800000000000000
+      internalID: 5494419691818286048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1083
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef00b315d838ff0800000000000000
+      internalID: -35028992067043619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_71
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1083
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99163923ca4ace640800000000000000
+      internalID: 5110640736648520089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d15a46862e3310800000000000000
+      internalID: 1386588093491041569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1043
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842769b6549a5d70800000000000000
+      internalID: 9032695102843593861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1043
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cfc53e9f232ba00800000000000000
+      internalID: 770734535076543589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_95
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1043
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeead0b368bee7f0800000000000000
+      internalID: -581324563575804184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2064ff16cdac70800000000000000
+      internalID: 8984054672220236611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3960b112b98150800000000000000
+      internalID: 5875422977925397790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822a16bbaa3945b0800000000000000
+      internalID: -5383707370375732605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd1f9f62d4f94000800000000000000
+      internalID: 20816857952886216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_103
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97cfc5c0ea859af0800000000000000
+      internalID: -390253094701643874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8540781493a4c6b0800000000000000
+      internalID: -5276913006910880371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab5ab5412eaee840800000000000000
+      internalID: 5255329273114942377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f91bf583853d30800000000000000
+      internalID: 4410576021545940332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_119
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c04e1e25c37a2bb0800000000000000
+      internalID: -4960024748875693881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76dc27b771cccc0800000000000000
+      internalID: -3689548175748798493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 963
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c350b20d4978ba0800000000000000
+      internalID: -6086732749572064239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_126
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 963
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f9db33bc7962f0800000000000000
+      internalID: -979114334731242103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_139
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 963
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a3f3b08dc346d10800000000000000
+      internalID: 2117884623370271274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937ef528599e7380800000000000000
+      internalID: -8971564803801844846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 923
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cb75c6a3bad1830800000000000000
+      internalID: 4043576307862715526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_146
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 923
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b729574f4f91e0800000000000000
+      internalID: -2188943726021724684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_159
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 923
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fdafcf8e331cae0800000000000000
+      internalID: -1530885322559529157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c791c3f4b70badd0800000000000000
+      internalID: -2473875096544897086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 883
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfdff39b911945a0800000000000000
+      internalID: -6536674024250941508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_166
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 883
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa3a770bcb907500800000000000000
+      internalID: 391984463887350434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_179
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 883
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3632b0716babfb4d0800000000000000
+      internalID: -3116567125883673757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b099bb9485d687350800000000000000
+      internalID: 6014677528314878219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 843
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f6bd2c8a595e6b0800000000000000
+      internalID: -5267639637083721861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_186
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 843
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e082c6c58decfee0800000000000000
+      internalID: -1225843839730548511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_199
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 843
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe6c1a801bb71020800000000000000
+      internalID: 2312522613389029109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963531e5d824777d0800000000000000
+      internalID: -2920792658390330519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_201
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6dd5bc61265dc40800000000000000
+      internalID: 5536439166962620157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_202
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5bd020da016ab0800000000000000
+      internalID: -5016716620893298890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_203
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08149880654ce3eb0800000000000000
+      internalID: -4738133884157738624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_204
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb04fa6c84641710800000000000000
+      internalID: 1663064716659133437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_206
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3866533db3edfca0800000000000000
+      internalID: -5981374328328525764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_219
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 803
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c57c5860c5dac0b0800000000000000
+      internalID: -5707514555377355328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c17990b1bee5980800000000000000
+      internalID: -8548136541345080294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_221
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 763
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f55db25b9459af0800000000000000
+      internalID: -390324750224367734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 763
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0d0c6cacdccb80800000000000000
+      internalID: -8373074974083315090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_223
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 763
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c466d6072a5fa30800000000000000
+      internalID: 4248480427249388683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_224
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 763
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1700a18c310a59f10800000000000000
+      internalID: 2275901193527623793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_226
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 763
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a1f5dd22314ba0800000000000000
+      internalID: -6106544447293381850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_239
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 763
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4f38e260fd1b80800000000000000
+      internalID: -8422311420519035024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071ae1f7efad61f0800000000000000
+      internalID: -1049989727376500985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_244
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 723
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c7fde430db1dd0800000000000000
+      internalID: -2514187041206976089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_246
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 723
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71fc852411af9720800000000000000
+      internalID: 2855177796677595517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_259
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 723
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c161ab25f65e80800000000000000
+      internalID: -8190089304586729515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14acd88579781eed0800000000000000
+      internalID: -2386477243434153407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_264
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 683
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1836a4a27c188960800000000000000
+      internalID: 7604359249529288734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_266
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 683
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114fe34d54dd6570800000000000000
+      internalID: 8461652771935830289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_279
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 683
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fdbe7d9f0ae6ec0800000000000000
+      internalID: -3571740459528364237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa50965d03fe9d960800000000000000
+      internalID: 7627390436946544042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_281
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 617
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a17de2c7e43cbc0800000000000000
+      internalID: -3764078568282842548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_282
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 617
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e4f46eda9f3580800000000000000
+      internalID: -8845180863165177585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_283
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 617
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13968871f1d269a0800000000000000
+      internalID: -6241195298542677217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_284
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d70ecdbac592dd0800000000000000
+      internalID: -2510373424067478255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_286
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d082dd0398aff0800000000000000
+      internalID: -24608110375021449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_287
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f348f8e5b667ca440800000000000000
+      internalID: 4948460294093374527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_288
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc42c2fc37477d30800000000000000
+      internalID: 4429087085638601913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_289
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ef25f16893a840800000000000000
+      internalID: 5234194738427454879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_290
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a767b754dc00d0800000000000000
+      internalID: -3455153340895745664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_291
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251307e3d0ebe5de0800000000000000
+      internalID: -1342426674818436782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_292
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9790551ba54e450800000000000000
+      internalID: 6117113911558371802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_293
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e71e51da66748a0800000000000000
+      internalID: -6320970658408727030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_294
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6811323d27201280800000000000000
+      internalID: -9074710174082459540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_295
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4af370901fd0180800000000000000
+      internalID: -9147390247040998151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_296
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621669ebdd893420800000000000000
+      internalID: 2610273434691048036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_297
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0512e0f105e55f80800000000000000
+      internalID: -8118330956766374644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_298
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9f0238301bc000800000000000000
+      internalID: 57157253816360650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_299
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 643
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae470c2f06e3f330800000000000000
+      internalID: 3743588668112588451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_336
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f62f5e4b134615a0800000000000000
+      internalID: -6550974823405771017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_337
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47f26656d518ac0800000000000000
+      internalID: -3854697115964967713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_338
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb8dbd8317edb90800000000000000
+      internalID: -7215205063980433619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_339
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5070a666bd536efe0800000000000000
+      internalID: -1160180637568989435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_340
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eedfaa203540e010800000000000000
+      internalID: 1216047972566949602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_341
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5975961b217dd6b0800000000000000
+      internalID: -5269931559077185185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_342
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb88c829cc48dddf0800000000000000
+      internalID: -153820798093850434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_343
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056025304f6ae7fd0800000000000000
+      internalID: -2342251189228140976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_344
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53847d3ea06ba3be0800000000000000
+      internalID: -1496683768258803659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_345
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b021093582d840800000000000000
+      internalID: 5247402995718600176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_346
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99790ff01254e0480800000000000000
+      internalID: -8931125002725451879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_347
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80354ba5978b5f00800000000000000
+      internalID: 1106627210342903947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_348
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c20f12fc6725e0800000000000000
+      internalID: -1934457727774177766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_349
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 523
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ccc555b50e24590800000000000000
+      internalID: -7691338530716595117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_351
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 483
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64337d316c41f2e00800000000000000
+      internalID: 1022058481405342534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_364
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 483
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946587c501cc22980800000000000000
+      internalID: -8565059170662328759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_366
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 443
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2329676e6c50900800000000000000
+      internalID: 650144414358975204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_379
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 443
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648fd476c46294d0800000000000000
+      internalID: -3129327987541965720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_381
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1def27c015190870800000000000000
+      internalID: 8649467721147215134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_384
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf2f84aac4faa2d0800000000000000
+      internalID: -3266529428522455078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_385
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dc087e045d3c5b0800000000000000
+      internalID: -5349197457647415965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_386
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d39209c4d8bec0800000000000000
+      internalID: -3550854346384877823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_387
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df260ba5d64b840800000000000000
+      internalID: 5238932502812491158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_388
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f429ebf8d5df0ea0800000000000000
+      internalID: -5904265458543418123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_389
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d3e51446a5fde0800000000000000
+      internalID: -1299950106071281056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_390
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79efe4060d63a0c50800000000000000
+      internalID: 6632173669853363863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_391
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48979c0e70d501160800000000000000
+      internalID: 6994192509723834756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_394
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 403
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8f6dcc7ceb4300800000000000000
+      internalID: 237543426133822989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_396
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 363
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f4083905277ea0800000000000000
+      internalID: -5875186467356741396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_399
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 363
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0195d0bbfaf428ca0800000000000000
+      internalID: -6016158536037476080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_406
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 363
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6d08cc41b75540800000000000000
+      internalID: 4996657254922807924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_409
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 363
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07a9815a2f6f220800000000000000
+      internalID: 2519467832456671445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_411
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 323
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb9ae530301cf40800000000000000
+      internalID: 5746877912509430738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_414
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 323
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9357d169b859e98d0800000000000000
+      internalID: -2837666288445328071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_421
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 323
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a4b7934a6771e20800000000000000
+      internalID: 3321253697920125494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_424
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 323
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2181bd7b6476c1c0800000000000000
+      internalID: -4483768373981642452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_426
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 283
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109af33cc5b2a5000800000000000000
+      internalID: 25380425316673793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_429
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 283
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf40b5e03758970800000000000000
+      internalID: 8756531555985587303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_436
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 283
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54879f7c587dfb6d0800000000000000
+      internalID: -2972420259455600571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_439
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 283
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd8396b3e9be620800000000000000
+      internalID: 2804509170973858947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_441
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 243
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4952899fe66610800000000000000
+      internalID: 1614240959054827193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_444
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 243
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23efb3651768d460800000000000000
+      internalID: 7266671340327789358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_451
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 243
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130fe7b6a454d50b0800000000000000
+      internalID: -5738354164266766287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_454
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 243
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d71cd02e718230800000000000000
+      internalID: 3639328653488674143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_456
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 203
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e8c5f9a49f2f30800000000000000
+      internalID: 4553021205988827344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_459
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 203
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515432ff34b8c30f0800000000000000
+      internalID: -1135879881844636395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_466
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 203
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82d391d16a75700800000000000000
+      internalID: 529074125147023557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_469
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 203
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e494eb0ff2db0ec0800000000000000
+      internalID: -3599551484294556442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_471
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f87218e916590650800000000000000
+      internalID: 6199581031319894256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_474
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034114f8295433fd0800000000000000
+      internalID: -2363468883668429776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_475
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8429c7817f97a42e0800000000000000
+      internalID: -2140764570686549432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_476
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9165a4d0173471bf0800000000000000
+      internalID: -353739892891953639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_477
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994b917bb8b30a40800000000000000
+      internalID: 5333309498941196689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_478
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3d1a7db0e5d550800000000000000
+      internalID: 6185096767665421303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_479
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c238453283459f0800000000000000
+      internalID: -480697535828906984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_480
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9af94a3a63df490800000000000000
+      internalID: -7710946910518924815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_481
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643727cfc3f68b0e0800000000000000
+      internalID: -2253929305774853306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_484
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dda7849f90d86be0800000000000000
+      internalID: -1483706693408281134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_486
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295802e0fa6ccd60800000000000000
+      internalID: 7911816228200012076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_490
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab9cd79af4a04c0800000000000000
+      internalID: -4320553303130129891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_491
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23e68b709a6cf450800000000000000
+      internalID: 6123886762097304367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_492
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5090f17c96406190800000000000000
+      internalID: -7971293702705344417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_493
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338cfd55c0c89c9a0800000000000000
+      internalID: -6212280226372663245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_494
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb685286d0498930800000000000000
+      internalID: 4145916222025264126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_495
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2044a19a95cd40750800000000000000
+      internalID: 6270378858853843970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_499
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f472c0a4a33b9a0800000000000000
+      internalID: -6218562570762629239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_501
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 83
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cae3fac88a2ac7c0800000000000000
+      internalID: -4050378147857438013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_514
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 83
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05555de3d8f0ccbd0800000000000000
+      internalID: -2608692984835386032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_516
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eeca8fa073829e0800000000000000
+      internalID: -1646005143542632897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_529
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2403c43b509a9e0800000000000000
+      internalID: -1609749124172725554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_531
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9290f58b6830a790800000000000000
+      internalID: -7520949343248936292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_532
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1eb7239b7cf360800000000000000
+      internalID: 7204769375843131039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_533
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d9ec6292f0d460800000000000000
+      internalID: 7264572909655019576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_534
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932d14dab2747a40800000000000000
+      internalID: 5365039202853266332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_535
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143053452cbf63840800000000000000
+      internalID: 5203623231528174401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_536
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8f7c19af29c07a0800000000000000
+      internalID: -6409586564769777447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_537
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359c1ec296b345b30800000000000000
+      internalID: 4275107269192042835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_538
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c254e17e75ea60800000000000000
+      internalID: 7702701765314136350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_539
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946fa0bcc793705f0800000000000000
+      internalID: -790600001435011511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_540
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e14b61e69102330800000000000000
+      internalID: 3683972455807065626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_541
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b2e4190738f4d0800000000000000
+      internalID: -3100667831299951474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_542
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866ea6b674c4d4330800000000000000
+      internalID: 3696694738769602152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_543
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38147e5d479e78470800000000000000
+      internalID: 8396936718269759875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_544
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f12f2c9d347aad0800000000000000
+      internalID: -2691107649772970223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1123
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2693c74344dee0800000000000000
+      internalID: -1237290022116905145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1083
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432aa138a1df58be0800000000000000
+      internalID: -1475495012583431628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

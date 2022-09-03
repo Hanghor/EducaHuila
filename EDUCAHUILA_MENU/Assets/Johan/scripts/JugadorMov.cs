@@ -43,6 +43,10 @@ public class JugadorMov : MonoBehaviour
     public Barras contarEnergia;
     [Tooltip("Script para modificar la barra de progreso con las acciones del jugador")]
     public Barras contarProgreso;
+    [Tooltip("Las llaves mostradas en el menu de llaves")]
+    public Image[] llaves;
+    //[Tooltip("Las insignias mostradas en el menu de llaves")]
+    //public Image[] insignias;
 
     [Space(10)]
     [Header("Variables de interaccion del jugador")]
@@ -72,6 +76,11 @@ public class JugadorMov : MonoBehaviour
         {
             objeto.SetActive(true);
         }
+
+        foreach (Image llave in llaves)
+        {
+            llave.enabled = false;
+        }
     }
     void FixedUpdate()
     {
@@ -91,16 +100,17 @@ public class JugadorMov : MonoBehaviour
         contarEnergia.barra.value -= 1;
         Cerrar();
     }
-    public void Pasado()
+    public void Aprobado()
     {
         contarProgreso.barra.value += 1;
+        objetosMision[indice].SetActive(false);
+        llaves[indice].enabled = true;
         Cerrar();
-
     }
     public void Cerrar()
     {
         menu[indice].SetActive(false);
-        objetosMision[indice].SetActive(false);
+        //objetosMision[indice].SetActive(false);
         Time.timeScale = 1;
 
         if (contarProgreso.barra.value == contarProgreso.barra.maxValue)
@@ -153,26 +163,29 @@ public class JugadorMov : MonoBehaviour
                 indice = 4;
                 menu[indice].SetActive(true);
                 Time.timeScale = 0;
-                print("menu de prueba5 desplegado");
-                break;
-            case 5:
-                indice = 5;
-                menu[indice].SetActive(true);
-                Time.timeScale = 0;
-                print("menu de prueba6 desplegado");
-                break;
-            case 6:
-                indice = 6;
-                menu[indice].SetActive(true);
-                Time.timeScale = 0;
-                print("menu de prueba7 desplegado");
-                break;
-            case 7:
-                indice = 7;
-                menu[indice].SetActive(true);
-                Time.timeScale = 0;
                 print("menu de pausa desplegado");
                 break;
+
+            //case 5:
+            //    indice = 5;
+            //    menu[indice].SetActive(true);
+            //    Time.timeScale = 0;
+            //    print("menu de pausa desplegado");
+            //    break;
+               
+               
+            //case 6:
+            //    indice = 6;
+            //    menu[indice].SetActive(true);
+            //    Time.timeScale = 0;
+            //    print("menu de prueba7 desplegado");
+            //    break;
+            //case 7:
+            //    indice = 7;
+            //    menu[indice].SetActive(true);
+            //    Time.timeScale = 0;
+            //    print("menu de pausa desplegado");
+            //    break;
         }
     }
 

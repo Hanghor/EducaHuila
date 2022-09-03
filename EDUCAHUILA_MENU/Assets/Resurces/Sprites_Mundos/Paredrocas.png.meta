@@ -1,0 +1,1776 @@
+fileFormatVersion: 2
+guid: 56a2d786e26a85e4cb9ce547783bebdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 718103969641289976
+    second: Paredrocas_0
+  - first:
+      213: 2317356447847906674
+    second: Paredrocas_1
+  - first:
+      213: -3222251571765627844
+    second: Paredrocas_2
+  - first:
+      213: 1575639679432827090
+    second: Paredrocas_3
+  - first:
+      213: 1264849023917874941
+    second: Paredrocas_4
+  - first:
+      213: -7819996621993045735
+    second: Paredrocas_5
+  - first:
+      213: 7481304143103698250
+    second: Paredrocas_6
+  - first:
+      213: 3239524047812504662
+    second: Paredrocas_7
+  - first:
+      213: -8822768862275047047
+    second: Paredrocas_8
+  - first:
+      213: -7659441948440429345
+    second: Paredrocas_9
+  - first:
+      213: -8103766292230553431
+    second: Paredrocas_10
+  - first:
+      213: 8381348759478293768
+    second: Paredrocas_11
+  - first:
+      213: 4056378995609248551
+    second: Paredrocas_12
+  - first:
+      213: -2286807339721834900
+    second: Paredrocas_13
+  - first:
+      213: 3518553730177204030
+    second: Paredrocas_14
+  - first:
+      213: -3091197484058143538
+    second: Paredrocas_15
+  - first:
+      213: -1909645310810638091
+    second: Paredrocas_16
+  - first:
+      213: 8112120569219681604
+    second: Paredrocas_17
+  - first:
+      213: 4463022905364222990
+    second: Paredrocas_18
+  - first:
+      213: -1363078878587088229
+    second: Paredrocas_19
+  - first:
+      213: -5994337265621659679
+    second: Paredrocas_20
+  - first:
+      213: 371488674652105269
+    second: Paredrocas_21
+  - first:
+      213: 6889371032007195370
+    second: Paredrocas_22
+  - first:
+      213: -6379226181073149529
+    second: Paredrocas_23
+  - first:
+      213: 2762301839995439977
+    second: Paredrocas_24
+  - first:
+      213: -3431067736814071548
+    second: Paredrocas_25
+  - first:
+      213: -720032815588466481
+    second: Paredrocas_26
+  - first:
+      213: -3298825901631793899
+    second: Paredrocas_27
+  - first:
+      213: 6409431517680169769
+    second: Paredrocas_28
+  - first:
+      213: -6917427506083634611
+    second: Paredrocas_29
+  - first:
+      213: 8591996411739233952
+    second: Paredrocas_30
+  - first:
+      213: -5988140255395525342
+    second: Paredrocas_31
+  - first:
+      213: 472036344952254972
+    second: Paredrocas_32
+  - first:
+      213: 6718628869839444136
+    second: Paredrocas_33
+  - first:
+      213: 8122571396368931614
+    second: Paredrocas_34
+  - first:
+      213: -7415453080118550726
+    second: Paredrocas_35
+  - first:
+      213: -6863032430549851264
+    second: Paredrocas_36
+  - first:
+      213: 4977359173477336591
+    second: Paredrocas_37
+  - first:
+      213: 5933774136026661038
+    second: Paredrocas_38
+  - first:
+      213: -8170942640700675537
+    second: Paredrocas_39
+  - first:
+      213: 8897105882683118565
+    second: Paredrocas_40
+  - first:
+      213: 1862345968141676968
+    second: Paredrocas_41
+  - first:
+      213: -4752139098780261202
+    second: Paredrocas_42
+  - first:
+      213: -1014407532815442401
+    second: Paredrocas_43
+  - first:
+      213: -5720588504891154558
+    second: Paredrocas_44
+  - first:
+      213: -4920815132385982844
+    second: Paredrocas_45
+  - first:
+      213: -5494628468045736560
+    second: Paredrocas_46
+  - first:
+      213: 1921693493811793919
+    second: Paredrocas_47
+  - first:
+      213: -4592596017666427249
+    second: Paredrocas_48
+  - first:
+      213: -2760800181147384466
+    second: Paredrocas_49
+  - first:
+      213: 5491936120897738607
+    second: Paredrocas_50
+  - first:
+      213: 8644942579293107191
+    second: Paredrocas_51
+  - first:
+      213: 4258155209339451500
+    second: Paredrocas_52
+  - first:
+      213: -8198970402231995968
+    second: Paredrocas_53
+  - first:
+      213: -6293427234437643540
+    second: Paredrocas_54
+  - first:
+      213: 3094573583915144410
+    second: Paredrocas_55
+  - first:
+      213: -2568184734954324035
+    second: Paredrocas_56
+  - first:
+      213: 3729321259272233130
+    second: Paredrocas_57
+  - first:
+      213: -450669725412325525
+    second: Paredrocas_58
+  - first:
+      213: 103550781406621543
+    second: Paredrocas_59
+  - first:
+      213: 511012380155419405
+    second: Paredrocas_60
+  - first:
+      213: 6086869272181357891
+    second: Paredrocas_61
+  - first:
+      213: -4070123415238920131
+    second: Paredrocas_62
+  - first:
+      213: -5550914528576911872
+    second: Paredrocas_63
+  - first:
+      213: -2045255814231676002
+    second: Paredrocas_64
+  - first:
+      213: 5982160778548658078
+    second: Paredrocas_65
+  - first:
+      213: 884485611956072887
+    second: Paredrocas_66
+  - first:
+      213: -1228027646684686212
+    second: Paredrocas_67
+  - first:
+      213: 4409809090420546051
+    second: Paredrocas_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paredrocas_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 590
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8544671c737f900800000000000000
+      internalID: 718103969641289976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 590
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7fe35967e82020800000000000000
+      internalID: 2317356447847906674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 590
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3437f784434843d0800000000000000
+      internalID: -3222251571765627844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 590
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0aa9ab0fbcdd510800000000000000
+      internalID: 1575639679432827090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 590
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfedf1d5c75ad8110800000000000000
+      internalID: 1264849023917874941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119951218ac97390800000000000000
+      internalID: -7819996621993045735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45aa520b7ee2d760800000000000000
+      internalID: 7481304143103698250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c233f25f915fc20800000000000000
+      internalID: 3239524047812504662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f7bcf67a3f8580800000000000000
+      internalID: -8822768862275047047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc7b7d112234b590800000000000000
+      internalID: -7659441948440429345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a040d82e73a98f80800000000000000
+      internalID: -8103766292230553431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055d5b5a48805470800000000000000
+      internalID: 8381348759478293768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72325a374372b4830800000000000000
+      internalID: 4056378995609248551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ebf1e27d0a340e0800000000000000
+      internalID: -2286807339721834900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f765ab9f964d030800000000000000
+      internalID: 3518553730177204030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec41220244cd915d0800000000000000
+      internalID: -3091197484058143538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8342225b39f75e0800000000000000
+      internalID: -1909645310810638091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d8a778daa049070800000000000000
+      internalID: 8112120569219681604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e049aa2bfa7dfed30800000000000000
+      internalID: 4463022905364222990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 550
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929af85bfe551de0800000000000000
+      internalID: -1363078878587088229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef0cba2406dfcca0800000000000000
+      internalID: -5994337265621659679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a28ba3bfac72500800000000000000
+      internalID: 371488674652105269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab7a0c376fb9f50800000000000000
+      internalID: 6889371032007195370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1634f369f6877a0800000000000000
+      internalID: -6379226181073149529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b065f53eaa55620800000000000000
+      internalID: 2762301839995439977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401d4ea62166260d0800000000000000
+      internalID: -3431067736814071548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a93818fde106f0800000000000000
+      internalID: -720032815588466481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515116502573832d0800000000000000
+      internalID: -3298825901631793899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f487b100e2f850800000000000000
+      internalID: 6409431517680169769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426e54555c5000a0800000000000000
+      internalID: -6917427506083634611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed521d637ec3770800000000000000
+      internalID: 8591996411739233952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dceeb0a2ad5eca0800000000000000
+      internalID: -5988140255395525342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f3f50e820d8600800000000000000
+      internalID: 472036344952254972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d67c3c5d5d3d50800000000000000
+      internalID: 6718628869839444136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b915756ab29b070800000000000000
+      internalID: 8122571396368931614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 510
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f15fe56b4071990800000000000000
+      internalID: -7415453080118550726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0832717cd5c91c0a0800000000000000
+      internalID: -6863032430549851264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0606ae0cc1231540800000000000000
+      internalID: 4977359173477336591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea005436320095250800000000000000
+      internalID: 5933774136026661038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa1f4b5fafa9e80800000000000000
+      internalID: -8170942640700675537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39d5259aed87b70800000000000000
+      internalID: 8897105882683118565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a137f77ac168d910800000000000000
+      internalID: 1862345968141676968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea425f5eaa20d0eb0800000000000000
+      internalID: -4752139098780261202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1e0539b91ce1f0800000000000000
+      internalID: -1014407532815442401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f97c350136c90b0800000000000000
+      internalID: -5720588504891154558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48644cc65b0c5bbb0800000000000000
+      internalID: -4920815132385982844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095926525882fb3b0800000000000000
+      internalID: -5494628468045736560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffc4d11d0a3baa10800000000000000
+      internalID: 1921693493811793919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f867e1a2142d340c0800000000000000
+      internalID: -4592596017666427249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_49
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6540e2dcdaafa9d0800000000000000
+      internalID: -2760800181147384466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671f3fedc6473c40800000000000000
+      internalID: 5491936120897738607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f33a66197109f770800000000000000
+      internalID: 8644942579293107191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 470
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68382b2a91081b30800000000000000
+      internalID: 4258155209339451500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13503fbd7673e80800000000000000
+      internalID: -8198970402231995968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce24397364149a8a0800000000000000
+      internalID: -6293427234437643540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4d190674222fa20800000000000000
+      internalID: 3094573583915144410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf77732799fb5cd0800000000000000
+      internalID: -2568184734954324035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0eb303de531c330800000000000000
+      internalID: 3729321259272233130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6786c1c546eeb9f0800000000000000
+      internalID: -450669725412325525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fa4f513e2ef6100800000000000000
+      internalID: 103550781406621543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b9df26d0b771700800000000000000
+      internalID: 511012380155419405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3c9a7a57e87450800000000000000
+      internalID: 6086869272181357891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383faa71540487c0800000000000000
+      internalID: -4070123415238920131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064e9175a037f2b0800000000000000
+      internalID: -5550914528576911872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b2be55caacd93e0800000000000000
+      internalID: -2045255814231676002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_65
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fbaa28887e40350800000000000000
+      internalID: 5982160778548658078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f5955af2564c00800000000000000
+      internalID: 884485611956072887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7810099c5b25fee0800000000000000
+      internalID: -1228027646684686212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paredrocas_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 430
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1ec9e00ac23d30800000000000000
+      internalID: 4409809090420546051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
